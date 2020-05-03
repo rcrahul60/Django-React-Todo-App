@@ -1,7 +1,9 @@
-# requirements
+# Requirements
 
 python3
 react
+
+# Steps to run:
 
 Create virtualenv and install the requirements
 
